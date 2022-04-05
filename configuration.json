@@ -1,15 +1,15 @@
 {
     "delayStart": 15,
     "fortniteAPI": {
-        "apiKey": "10947a4b-60ae-473c-8bb7-c4f41052fe23"
+        "apiKey": "xxxxxxxxxxxxx"
     },
     "language": "es",
     "supportACreator":"Puedes apoyar a @jorxnews utilizando el código jorxnews en la tienda de",
     "twitter": {
         "enabled": true,
-        "apiKey": "cq05iNXcFVCp5sIpeMogqJZBq",
-        "apiSecret": "9Bezyd4GM0JjQF1CoXmXX9xoWW2PF0E9hErEQV2wf94DEJ8l7m",
-        "accessToken": "4054103512-9iAB1PbZj5a10UlQQFTlAXetjkyQc6RPTLuBI85",
-        "accessSecret": "YJW8MtnNNCw8quWqjPk4z9RWX9t8fRh1cpIPW1vU99HuL"
+        "apiKey": "xxxxxxxxxxxxxx",
+        "apiSecret": "xxxxxxxxxxxxxxx",
+        "accessToken": "xxxxxxxxxxxxxxxxx",
+        "accessSecret": "xxxxxxxx"
     }
 }
