@@ -1,14 +1,14 @@
 API key
-cq05iNXcFVCp5sIpeMogqJZBq
+"xxxxxxxx"
 API Secret
-9Bezyd4GM0JjQF1CoXmXX9xoWW2PF0E9hErEQV2wf94DEJ8l7m
+"xxxxxx"
 Bearer
-AAAAAAAAAAAAAAAAAAAAAEXuUQEAAAAA01kexGoIc9%2F8zVdesbGhYgywqrY%3DNoFgSJnlMLzsJE0Km2oY4EMK0i2MJ0J4alf6ZxLOslADuIGgaD
+"xxxxxxx"
 Access Token
-4054103512-9iAB1PbZj5a10UlQQFTlAXetjkyQc6RPTLuBI85
+"xxxxxxx"
 Access Token Secret
-YJW8MtnNNCw8quWqjPk4z9RWX9t8fRh1cpIPW1vU99HuL
+"xxxxxxx"
 Client ID
-WS1Cd1NIRXJVLXk1V2ZiQlR2S206MTpjaQ
+"xxxxxx"
 Client Secret
-wn6O6twN8gpmi_WQAwGiGm4VFVPHSASQPiAtv_BhBkX9MVZ2-9
+"xxxxxxxx"
