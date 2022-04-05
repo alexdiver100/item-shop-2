@@ -1,0 +1,2 @@
+python itemshop.py
+PAUSE
