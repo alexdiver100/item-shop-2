@@ -4,9 +4,9 @@
 
 Todo el mérito del bot al creador original: [EthanC](https://github.com/EthanC/Athena). Yo solo lo he querido traducir y modificar algunas cosas que no estaban hechas para que más gente pueda usarla ^^
 
-Este archivo es una modificacion al de [PokeSantiTW](https://github.com/PokeSantiTW/Spanish-Twitter-Item-Shop-Bot) incluyo diferentes mejoras y cambios a mi gusto por si alguien quiere descargarlo. 
+Este archivo es una modificacion al de [PokeSantiTW](https://github.com/PokeSantiTW/Spanish-Twitter-Item-Shop-Bot). incluyo diferentes mejoras y cambios a mi gusto por si alguien quiere descargarlo. 
 
-                                                    --> Todo el merito a estas personas mencionadas arriba <--
+--> Todo el merito a estas personas mencionadas arriba <--
 
 ## Bot de la Tienda de Objetos para Twitter
 
