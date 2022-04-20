@@ -32,7 +32,7 @@ Para instalar esto debes tener Python en tu máquina (Windows, Linux, etc.). El 
 
 Abre `configuration.json` en un editor de texto y completa los campos correspondientes. Una vez terminado, guarda el archivo.
 
-- `apiKey`: Esta sección ya no es necesaria rellenarla, puedes dejarla vacía y el programa funcionará.
+- `apiKey`: Aqui tienes que obtener la apiKey de Fortnite, puedes conseguirla [aqui](https://fortnite-api.com/)
 - `delayStart`: Esta función introducirá un retraso al generador de la imagen. Ponlo a `0` para que empiece automáticamente. Recomendamos tenerlo a `15` para que la API le de tiempo a actualizarse tras un reseteo de Tienda.
 - `supportACreator`: Si tienes Código de Creador, puedes ponerlo aquí para que se publique en el Tweet. Si no, déjalo en blanco.
 - `twitter`: Pon `enabled` a `false` si no quieres que la imagen de la Tienda sea tweeteada.
