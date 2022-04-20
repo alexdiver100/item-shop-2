@@ -42,10 +42,14 @@ class Utility:
         try:
             # Unix-supported zero padding removal
             return datetime.strptime(date, "%Y-%m-%d").strftime("%A %-d de %B del %Y")
+                                                             # ("%A %#d to %B to %Y") Monday 18 to April to 2022
+                                                             # ("%A %#d, %B, %Y") Monday 18, April, 2022
         except ValueError:
             try:
                 # Windows-supported zero padding removal
                 return datetime.strptime(date, "%Y-%m-%d").strftime("%A %#d de %B del %Y")
+                                                                 # ("%A %#d to %B to %Y") Monday 18 to April to 2022
+                                                                 # ("%A %#d, %B, %Y") Monday 18, April, 2022
             except Exception as e:
                 log.error(self, f"Failed to convert to human-readable time, {e}")
 
