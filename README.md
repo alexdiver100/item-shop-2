@@ -34,7 +34,7 @@ Abre `configuration.json` en un editor de texto y completa los campos correspond
 
 - `apiKey`: Aqui tienes que obtener la apiKey de Fortnite, puedes conseguirla [aqui](https://fortnite-api.com/)
 - `delayStart`: Esta función introducirá un retraso al generador de la imagen. Ponlo a `0` para que empiece automáticamente. Recomendamos tenerlo a `15` para que la API le de tiempo a actualizarse tras un reseteo de Tienda.
-- `supportACreator`: Si tienes Código de Creador, puedes ponerlo aquí para que se publique en el Tweet. Si no, déjalo en blanco.
+- `supportACreator`: Si tienes Código de Creador, puedes ponerlo aquí para que se publique en el Tweet. Si no, déjalo en blanco. (os he dejado el archivo con un texto de prueba para que veais como teneis que ponerlo)
 - `twitter`: Pon `enabled` a `false` si no quieres que la imagen de la Tienda sea tweeteada.
 
 Puedes editar las imagenes que se encuentran en `assets/images/` a tu gusto. ¡No cambies las resoluciones si no es necesario! 
